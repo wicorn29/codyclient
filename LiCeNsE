@@ -1,0 +1,68 @@
+Wicorn29 Open-Closed License (OCL) — Version 1.0  
+Copyright © 2021-2025 Wicorn29 Networks. All Rights Reserved.
+
+1. Purpose of this License
+This license allows individuals to view the source code strictly for informational and educational purposes, while prohibiting any copying, modification, distribution, execution, or reuse of the code in any form.
+This is an “Open-Closed” license:
+- Open to read
+- Closed to everything else
+
+2. Grant of Permission
+You are permitted to:
+- View the source code as-is.
+- Study and learn from the structure and implementation.
+- Know what's running on your device.
+
+You are NOT permitted to:
+- Copy the code, including copying by paper transcription, screenshots, or typed duplication.
+- Modify the code or create derivative works.
+- Compile, run, execute, or utilize any part of the code in software or hardware.
+- Redistribute, upload, publish, or otherwise share the code with others.
+- Use the code in any personal, academic, commercial, or research project.
+- Train large language model) off the code.
+
+3. Intellectual Property Ownership
+All rights, title, and ownership of the source code and any related materials are exclusively held by Wicorn29. No transfer of rights is granted under this license.
+
+4. Prohibition of Reverse Engineering and Extraction
+You may not extract, reuse, or repurpose:
+- Algorithms
+- Techniques
+- Design patterns
+- Architecture
+- Unique logic decisions
+Even transformative or paraphrased reuse is strictly prohibited.
+
+5. Confidentiality and Access
+If access to the source code is granted by private means, you must:
+- Not disclose the contents to any third party.
+- Not clone or mirror the content.
+- Not use automated tools to scrape, copy, or archive the source.
+
+6. Revocation
+Wicorn29 may terminate your viewing rights immediately and without notice if any part of this license is breached.
+Upon termination:
+- You must destroy all local copies or cached fragments.
+- You must certify full destruction if requested.
+
+7. Disclaimer of Warranty
+The source code is provided “AS IS” without warranties of any kind.
+
+8. Limitation of Liability
+In no event shall Wicorn29 be held liable for:
+- Damages of any kind
+- Loss of data or profits
+- Business interruption
+Resulting from viewing or referencing the source.
+
+9. Governing Law
+This license is governed by the laws of the State of Oregon, United States.
+
+10. Acceptance
+By accessing or viewing any portion of the source code, you acknowledge that:
+- You have read this license,
+- You understand its terms, and
+- You agree to be legally bound by it.
+
+Summary (Non-Legal)
+You can look, but you can’t copy or use anything.
