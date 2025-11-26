@@ -1,3 +1,4 @@
 {
-  "url": "http://15.218.23.160:67"
+  "mainapp": "http://15.218.23.160:67",
+  "postlauncher": "https://www.example.com"
 }
