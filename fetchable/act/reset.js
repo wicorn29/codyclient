@@ -3,12 +3,15 @@
     if (!parent) return;
 
     var container = document.createElement('div');
-    container.className = 'top_notify_wrap pad10';
-    container.style.position = 'relative';
-    container.style.zIndex = '99999999999999999';
-    container.style.backgroundColor = 'red';
-    container.style.color = 'white';
-    container.style.transition = 'background-color 0.5s';
+container.className = 'top_notify_wrap pad10';
+container.style.position = 'fixed';       // fixed to viewport
+container.style.top = '0';                // top-left corner
+container.style.left = '0';
+container.style.width = '100%';           // span full width
+container.style.zIndex = '1000000';       // large as my dih
+container.style.backgroundColor = 'red';
+container.style.color = 'white';
+container.style.transition = 'background-color 0.5s';
 
     container.innerHTML = `
         <div class="btable">
