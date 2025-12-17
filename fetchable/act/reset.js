@@ -5,7 +5,7 @@
     var container = document.createElement('div');
     container.className = 'top_notify_wrap pad10';
     container.style.position = 'relative';
-    container.style.zIndex = '9999999';
+    container.style.zIndex = '99999999999999999';
     container.style.backgroundColor = 'red';
     container.style.color = 'white';
     container.style.transition = 'background-color 0.5s';
@@ -50,7 +50,7 @@
             overlay.style.width = '100vw';
             overlay.style.height = '100vh';
             overlay.style.backgroundColor = 'black';
-            overlay.style.zIndex = '10000000';
+            overlay.style.zIndex = '1000000010000000';
             overlay.style.opacity = '0';
             overlay.style.transition = 'opacity 1s';
             document.body.appendChild(overlay);
